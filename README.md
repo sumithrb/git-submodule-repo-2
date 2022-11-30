@@ -1,0 +1,1 @@
+# git-submodule-repo-2
